@@ -1,13 +1,13 @@
 {
-    "image1": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAu7vu7gAAALAREd3dDgAAsBET0d0OAAAbERHR3e0AABsTERHR7QCwERERE93dDrAxERER3d0OsBERExHd3Q6wEREREd3dDgAbExET3e0AABsREdHd7QAAsBETEd0OAACwERHd3Q4AAAC7u+7uAAAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "Cake Sprite"
-    },
     "image2": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODuAAAAAAAA7u4O3QAAAADu3t/QDd0NAO7eLd3dDQAA7t7f0A3dDQDu7g7dAAAAAODuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Little figure sprite"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAu7vu7gAAALAREd3dDgAAsBET0d0OAAAbERHR3e0AABsTERHR7QCwERERE93dDrAxERER3d0OsBERExHd3Q6wEREREd3dDgAbExET3e0AABsREdHd7QAAsBETEd0OAACwERHd3Q4AAAC7u+7uAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Cake Sprite"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",

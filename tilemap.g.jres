@@ -34,6 +34,18 @@
         "tilemapTile": true,
         "displayName": "myTile3"
     },
+    "tile6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile4"
+    },
+    "tile7": {
+        "data": "hwQQABAAAAB3d3fu7u7u7nd3d+7u7u7ud3d37u7u7u53d3fu7u7u7nd3d+7u7u7ud3d37u7u7u53d3fu7u7u7nd3d+7u7u7ud3d37u7u7u53d3fu7u7u7nd3d+7u7u7ud3d37u7u7u53d3fu7u7u7nd3d+7u7u7ud3d37u7u7u53d3fu7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile5"
+    },
     "level1": {
         "id": "level1",
         "mimeType": "application/mkcd-tilemap",
